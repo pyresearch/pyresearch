@@ -1,1 +1,5 @@
 # pyresearch
+
+
+pip install pyresearch
+
