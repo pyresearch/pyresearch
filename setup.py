@@ -1,12 +1,12 @@
 from distutils.core import setup
 
 setup(
-    name='Pyresearch',
-    packages=['Pyresearch'],
-    version='1.5.6',
+    name='pyresearch',
+    packages=['pyresearch'],
+    version='1.0',
     license='MIT',
     description='Computer Vision Helping Library',
-    author='Pyresearch',
+    author='pyresearch',
     author_email='pyresearch0@gmail.com',
     url='https://github.com/pyresearch/pyresearch.git',
     keywords=['ComputerVision', 'HandTracking', 'FaceTracking', 'PoseEstimation'],
