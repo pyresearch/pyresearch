@@ -1,4 +1,4 @@
-import cvzone
+import pyresearch
 import cv2
 import numpy as np
 import time
