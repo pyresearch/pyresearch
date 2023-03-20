@@ -36,9 +36,6 @@ cv2.destroyAllWindows()
 
 
 
-
-<hr>
-
 <p align="center">
 <video src="https://user-images.githubusercontent.com/34125851/226322060-6e7da509-718b-40b7-8515-ea84e93687ec.mov"></video>
 </p>
