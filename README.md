@@ -78,7 +78,6 @@ cv2.destroyAllWindows()
 
 
 
-<hr>
 
 
 ### FPS
