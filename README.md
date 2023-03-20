@@ -10,12 +10,6 @@ You can  simply use pip to install the latest version of cvzone.
 
 ### 60 FPS Face Detection
 
-<hr>
-
-<p align="center">
-<video src="https://user-images.githubusercontent.com/34125851/226322060-6e7da509-718b-40b7-8515-ea84e93687ec.mov"></video>
-</p>
-
 <pre>
 from cvzone.FaceDetectionModule import FaceDetector
 import cv2
@@ -41,3 +35,12 @@ cv2.destroyAllWindows()
 </pre>
 
 <hr>
+
+
+
+<hr>
+
+<p align="center">
+<video src="https://user-images.githubusercontent.com/34125851/226322060-6e7da509-718b-40b7-8515-ea84e93687ec.mov"></video>
+</p>
+
