@@ -43,10 +43,6 @@ cv2.destroyAllWindows()
 <hr>
 
 
-
-
-<hr>
-
 ### Face Mesh Detection
 
 
