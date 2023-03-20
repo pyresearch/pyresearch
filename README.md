@@ -1,13 +1,10 @@
-# pyresearch
-
-
-pip install pyresearch
+## pyresearch
 
 
 ## Installation
 You can  simply use pip to install the latest version of cvzone.
 
-`pip install cvzone`
+`pip install pyresearch`
 
 <hr>
 
