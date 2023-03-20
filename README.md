@@ -123,3 +123,44 @@ cv2.destroyAllWindows()
 
 <hr>
 
+
+
+
+
+
+### Stack Images
+
+<hr>
+
+
+<pre>
+
+import pyresearch
+import cv2
+
+cap = cv2.VideoCapture(0)
+cap.set(3, 1280)
+cap.set(4, 720)
+
+while True:
+    success, img = cap.read()
+    imgGray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+    imgList = [img, img, imgGray, img, imgGray, img,imgGray, img, img]
+    stackedImg = pyresearch.stackImages(imgList, 3, 0.4)
+
+    cv2.imshow("stackedImg", stackedImg)
+    if cv2.waitKey(1) & 0xFF == ord('q'):
+        break
+cap.release()
+cv2.destroyAllWindows()
+
+
+</pre>
+
+
+
+<p align="center">
+<video src="https://user-images.githubusercontent.com/34125851/226393643-cddf28df-781d-47bf-8ec8-9f25ca53d311.mov"></video>
+</p>
+
+<hr>
