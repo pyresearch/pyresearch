@@ -2,7 +2,7 @@
 
 
 ## Installation
-You can  simply use pip to install the latest version of cvzone.
+You can  simply use pip to install the latest version of pyresearch.
 
 `pip install pyresearch`
 
