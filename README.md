@@ -42,9 +42,9 @@ cv2.destroyAllWindows()
 
 <hr>
 
-<hr>
 
 ### Face Mesh Detection
+<hr>
 
 
 <pre>
@@ -70,7 +70,7 @@ cv2.destroyAllWindows()
 
 
 <p align="center">
-<video src="https://user-images.githubusercontent.com/34125851/226322060-6e7da509-718b-40b7-8515-ea84e93687ec.mov"></video>
+<video src="https://user-images.githubusercontent.com/34125851/226390465-0c400a81-b3f7-4384-b057-d1b5a9531f5b.mov"></video>
 </p>
 
 <hr>
