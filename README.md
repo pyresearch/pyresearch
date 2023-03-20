@@ -44,13 +44,11 @@ cv2.destroyAllWindows()
 
 
 
-
-
-<hr>
-
 ### Face Mesh Detection
 
 <hr>
+
+</pre>
 
 from pyresearch.FaceMeshModule import FaceMeshDetector
 import cv2
@@ -67,6 +65,8 @@ while True:
         break
 cap.release()
 cv2.destroyAllWindows()
+
+
 </pre>
 
 <p align="center">
