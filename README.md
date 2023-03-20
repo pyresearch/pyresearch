@@ -11,7 +11,7 @@ You can  simply use pip to install the latest version of cvzone.
 ### 60 FPS Face Detection
 
 <pre>
-from cvzone.FaceDetectionModule import FaceDetector
+from pyresearch.FaceDetectionModule import FaceDetector
 import cv2
 
 cap = cv2.VideoCapture(0)
