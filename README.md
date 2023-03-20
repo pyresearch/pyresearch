@@ -6,6 +6,7 @@ You can  simply use pip to install the latest version of pyresearch.
 
 `pip install pyresearch`
 
+
 <hr>
 
 ### 60 FPS Face Detection
