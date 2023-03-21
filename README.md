@@ -8,16 +8,15 @@
 
 [English](README.md) | [简体中文](README.md)
 <br>
-  <div>
+<div>
 
 ## Installation
 You can  simply use pip to install the latest version of pyresearch.
 
-`pip install pyresearch`
 
+## <div align="center">`pip install pyresearch`</div>
 
 <hr>
-<div>
 
 ### 60 FPS Face Detection
 
