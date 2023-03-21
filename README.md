@@ -6,6 +6,11 @@
       <img width="100%" src="https://github.com/pyresearch/pyresearch/blob/main/pyresearch.jpeg"></a>
   </p>
 
+[English](README.md) | [简体中文](README.md)
+<br>
+
+<div>
+
 
 ## Installation
 You can  simply use pip to install the latest version of pyresearch.
@@ -277,4 +282,4 @@ cv2.destroyAllWindows()
 
 <hr>
 
-</div>
+
