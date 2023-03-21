@@ -22,8 +22,7 @@ You can  simply use pip to install the latest version of pyresearch.
     <a href="https://github.com/pyresearch/pyresearch" style="text-decoration:none;">
       <img src="https://user-images.githubusercontent.com/34125851/226594737-c21e2dda-9cc6-42ef-b4e7-a685fea4a21d.png" width="2%" alt="" /></a>
     <img src="https://user-images.githubusercontent.com/34125851/226595799-160b0da3-c9e0-4562-8544-5f20460f7cc9.png" width="2%" alt="" />
-
-    <a href="https://www.linkedin.com/company/pyresearch/" style="text-decoration:none;">
+      <a href="https://www.linkedin.com/company/pyresearch/" style="text-decoration:none;">
       <img src="https://user-images.githubusercontent.com/34125851/226596446-746ffdd0-a47e-4452-84e3-bf11ec2aa26a.png" width="2%" alt="" /></a>
     <img src="https://user-images.githubusercontent.com/34125851/226595799-160b0da3-c9e0-4562-8544-5f20460f7cc9.png" width="2%" alt="" />
     
