@@ -241,3 +241,36 @@ cv2.destroyAllWindows()
 
 <hr>
 
+
+### Pose Estimation
+
+<hr>
+
+<pre>
+from cvzone.PoseModule import PoseDetector
+import cv2
+
+cap = cv2.VideoCapture(0)
+detector = PoseDetector()
+while True:
+    success, img = cap.read()
+    img = detector.findPose(img)
+    lmList, bboxInfo = detector.findPosition(img, bboxWithHands=False)
+    if bboxInfo:
+        center = bboxInfo["center"]
+        cv2.circle(img, center, 5, (255, 0, 255), cv2.FILLED)
+
+    cv2.imshow("Image", img)
+    if cv2.waitKey(1) & 0xFF == ord('q'):
+        break
+cap.release()
+cv2.destroyAllWindows()
+
+</pre>
+
+<p align="center">
+<video src="https://user-images.githubusercontent.com/34125851/226541583-a74d89e0-8bbf-4a26-81eb-e75112ea3947.mov"></video>
+</p>
+
+<hr>
+
