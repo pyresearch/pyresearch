@@ -236,7 +236,7 @@ cv2.destroyAllWindows()
  
 
 <p align="center">
-<video src="https://user-images.githubusercontent.com/34125851/226393643-cddf28df-781d-47bf-8ec8-9f25ca53d311.mov"></video>
+<video src="https://user-images.githubusercontent.com/34125851/226536806-863d82e6-3dc5-4c43-8d4e-ec52b874a085.mov"></video>
 </p>
 
 <hr>
