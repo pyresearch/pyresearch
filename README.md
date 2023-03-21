@@ -1,7 +1,10 @@
 ## Pyresearch
 
-This is a Computer vision package that makes its easy to run Image processing and AI functions. At the core it uses [OpenCV](https://github.com/opencv/opencv) and [Mediapipe](https://github.com/google/mediapipe) libraries. 
-
+<div align="center">
+  <p>
+    <a href="https://ultralytics.com/yolov8" target="_blank">
+      <img width="100%" src="https://github.com/pyresearch/pyresearch/blob/main/pyresearch.jpeg"></a>
+  </p>
 
 
 ## Installation
