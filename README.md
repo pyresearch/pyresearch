@@ -10,10 +10,6 @@
 <br>
   <div>
 
-
-<div>
-
-
 ## Installation
 You can  simply use pip to install the latest version of pyresearch.
 
