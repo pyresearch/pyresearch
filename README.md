@@ -1,5 +1,3 @@
-## Pyresearch
-
 <div align="center">
   <p>
     <a href="https://ultralytics.com/yolov8" target="_blank">
@@ -7,14 +5,10 @@
   </p>
 
 [English](README.md) | [简体中文](README.md)
-<br>
 
-<div>
 
 ## Installation
 You can  simply use pip to install the latest version of pyresearch.
-</div>
-<br>
 
 ## <div align="center">`pip install pyresearch`</div>
 
