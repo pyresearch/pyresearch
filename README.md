@@ -8,6 +8,8 @@
 
 [English](README.md) | [简体中文](README.md)
 <br>
+  <div>
+
 
 <div>
 
@@ -19,6 +21,7 @@ You can  simply use pip to install the latest version of pyresearch.
 
 
 <hr>
+<div>
 
 ### 60 FPS Face Detection
 
