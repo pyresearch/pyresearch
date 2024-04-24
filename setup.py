@@ -3,7 +3,7 @@ from distutils.core import setup
 setup(
     name='pyresearch',
     packages=['pyresearch'],
-    version='1.0',
+    version='1.1',
     license='MIT',
     description='Computer Vision Helping Library',
     author='pyresearch',
