@@ -352,8 +352,49 @@ cap.release()
 cv2.destroyAllWindows()
 </pre>
 
+
 <p align="center">
 <video src="https://user-images.githubusercontent.com/34125851/236666751-efd9b342-034c-4c9f-ac51-e706cb42481c.mov"></video>
 </p>
 
 <hr>
+
+
+### Heatmap and tracking
+
+
+<hr>
+
+<pre>
+
+import argparse
+from pyresearch.heatmap_and_track import process_video
+
+def main():
+    # Define the arguments as a dictionary
+    args = {
+        "source_weights_path": "yolov8s.pt",
+        "source_video_path": "people-walking.mp4",
+        "target_video_path": "output.mp4",
+        "confidence_threshold": 0.35,
+        "iou_threshold": 0.5,
+        "heatmap_alpha": 0.5,
+        "radius": 25,
+        "track_threshold": 0.35,
+        "track_seconds": 5,
+        "match_threshold": 0.99,
+        "display": True,
+    }
+
+    # Convert the dictionary to an argparse Namespace object
+    args_namespace = argparse.Namespace(**args)
+
+    # Call the process_video function with the Namespace object
+    process_video(args_namespace)
+
+if __name__ == "__main__":
+    main()
+  </pre>
+
+
+
