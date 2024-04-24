@@ -13,4 +13,5 @@ pyresearch\PoseModule.py
 pyresearch\SelfiSegmentationModule.py
 pyresearch\SerialModule.py
 pyresearch\Utils.py
+pyresearch/heatmap_and_track.py
 pyresearch\__init__.py
