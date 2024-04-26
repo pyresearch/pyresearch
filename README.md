@@ -360,7 +360,7 @@ cv2.destroyAllWindows()
 <hr>
 
 
-### Heatmap and tracking
+### Heatmap & Tracking Objects using YOLOv8 ByteTrack & Supervision
 
 
 <hr>
@@ -397,4 +397,6 @@ if __name__ == "__main__":
   </pre>
 
 
+
+[![Watch the video](https://github.com/pyresearch/pyresearch/blob/main/Heatmap%20%26%20Tracking%20Objects%20using%20YOLOv8%20ByteTrack%20%26%20Supervision.png)](https://youtu.be/KYSPbSPBgXM)
 
