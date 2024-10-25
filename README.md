@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-    <a href="https://ultralytics.com/yolov8" target="_blank">
+    <a href="https://pyresearch.org/" target="_blank">
       <img width="100%" src="https://github.com/pyresearch/pyresearch/blob/main/pyresearch.jpeg"></a>
   </p>
     
