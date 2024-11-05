@@ -400,3 +400,13 @@ if __name__ == "__main__":
 
 [![Watch the video](https://github.com/pyresearch/pyresearch/blob/main/Heatmap%20%26%20Tracking%20Objects%20using%20YOLOv8%20ByteTrack%20%26%20Supervision.png)](https://youtu.be/KYSPbSPBgXM)
 
+
+## Buy Us a Beer!
+
+This Pyresearch platform is funded by donations only. Please support us to maintain and further improve our computer vision solutions!
+
+<a href="https://liberapay.com/pyresearch/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
+
+For more information about our self-sufficiency challenge, visit: [Pyresearch] https://pyresearch.org  
+contact@pyresearch.org mailto:contact@pyresearch.org 
+
